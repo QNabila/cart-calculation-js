@@ -70,6 +70,7 @@ body {
   margin: 5px;
   padding: 20px;
   transition: 0.6s;
+  background-color: rgba(245, 245, 245, 0.527);
 }
 .single-product:hover {
   box-shadow: 7px 8px 10px rgb(212, 211, 211);
